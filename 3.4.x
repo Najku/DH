@@ -1,0 +1,4 @@
+GIF To Member Name
+<a href="#" class="at_member" data-store="{$d['members_display_name']}! title=!{$this->lang->words['insert_name']}">
+<img src="http://www.IMAGEURLHERE"></a>nbsp;
+
